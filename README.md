@@ -9,9 +9,8 @@ The get_next_line function reads a line (ending with a newline character) from a
 ### Features
 
 	•	Reads one line at a time from a given file descriptor.
-	•	Supports multiple file descriptors at the same time.
 	•	Uses a specified buffer size for optimized memory handling.
-	•	Handles edge cases, such as lines longer than the buffer size, end-of-file, and empty files.
+	•	Handles edge cases, such as lines longer than the buffer size, end-of-file, and empty files and lines.
 
 ## Usage
 
